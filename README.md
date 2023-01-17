@@ -2,4 +2,4 @@
 >MrMidnight
 ---------------------------
 
-Here contains all the writeups Ive wroten for hackmyvm
+Here contains all the writeups Ive wrote for hackmyvm
